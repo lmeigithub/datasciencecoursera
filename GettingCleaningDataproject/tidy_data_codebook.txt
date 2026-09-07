@@ -1,0 +1,127 @@
+This list describes the columns in the "tidy_data" data set:
+
+subject: Integer from 1-30 indicating which the subject who performed the activities for each sample.
+
+activity: A string indicating which of six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, or LAYING) that the subject was performing
+
+tBodyAcc.mean...X: The average of the mean body acceleration signals in the X axis recorded for the given subject and activity.
+
+tBodyAcc.mean...Y: The average of the mean body acceleration signals in the Y axis recorded for the given subject and activity.
+
+tBodyAcc.mean...Z: The average of the mean body acceleration signals in the Z axis recorded for the given subject and activity.
+
+tBodyAcc.std...X: The average of the standard deviation of the body acceleration signals in the X axis recorded for the given subject and activity.
+
+tBodyAcc.std...Y: The average of the standard deviation of the body acceleration signals in the Y axis recorded for the given subject and activity.
+
+tBodyAcc.std...Z: The average of the standard deviation of the body acceleration signals in the Z axis recorded for the given subject and activity.
+
+tGravityAcc.mean...X: The average of the mean gravity acceleration signals in the X axis recorded for the given subject and activity.
+
+tGravityAcc.mean...Y: The average of the mean gravity acceleration signals in the Y axis recorded for the given subject and activity.
+
+tGravityAcc.mean...Z: The average of the mean gravity acceleration signals in the Z axis recorded for the given subject and activity.
+
+tGravityAcc.std...X: The average of the standard deviation of the gravity acceleration signals in the X axis recorded for the given subject and activity.
+
+tGravityAcc.std...Y: The average of the standard deviation of the gravity acceleration signals in the Y axis recorded for the given subject and activity.
+
+tGravityAcc.std...Z: The average of the standard deviation of the gravity acceleration signals in the Z axis recorded for the given subject and activity.
+
+tBodyAccJerk.mean...X: The average of the mean body acceleration jerk signals in the X axis recorded for the given subject and activity.
+
+tBodyAccJerk.mean...Y: The average of the mean body acceleration jerk signals in the Y axis recorded for the given subject and activity.
+
+tBodyAccJerk.mean...Z: The average of the mean body acceleration jerk signals in the Z axis recorded for the given subject and activity.
+
+tBodyAccJerk.std...X: The average of the standard deviation of the body acceleration jerk signals in the X axis recorded for the given subject and activity.
+
+tBodyAccJerk.std...Y: The average of the standard deviation of the body acceleration jerk signals in the Y axis recorded for the given subject and activity.
+
+tBodyAccJerk.std...Z: The average of the standard deviation of the body acceleration jerk signals in the Z axis recorded for the given subject and activity.
+
+tBodyGyro.mean...X: The average of the mean body gyroscope signals in the X axis recorded for the given subject and activity.
+
+tBodyGyro.mean...Y: The average of the mean body gyroscope signals in the Y axis recorded for the given subject and activity.
+
+tBodyGyro.mean...Z: The average of the mean body gyroscope signals in the Z axis recorded for the given subject and activity.
+
+tBodyGyro.std...X: The average of the standard deviation of the body gyroscope signals in the X axis recorded for the given subject and activity.
+
+tBodyGyro.std...Y: The average of the standard deviation of the body gyroscope signals in the Y axis recorded for the given subject and activity.
+
+tBodyGyro.std...Z: The average of the standard deviation of the body gyroscope signals in the Z axis recorded for the given subject and activity.
+
+tBodyGyroJerk.mean...X: The average of the mean body gyroscope jerk signals in the X axis recorded for the given subject and activity.
+
+tBodyGyroJerk.mean...Y: The average of the mean body gyroscope jerk signals in the Y axis recorded for the given subject and activity.
+
+tBodyGyroJerk.mean...Z: The average of the mean body gyroscope jerk signals in the Z axis recorded for the given subject and activity.
+
+tBodyGyroJerk.std...X: The average of the standard deviation of the body gyroscope jerk signals in the X axis recorded for the given subject and activity.
+
+tBodyGyroJerk.std...Y: The average of the standard deviation of the body gyroscope jerk signals in the Y axis recorded for the given subject and activity.
+
+tBodyGyroJerk.std...Z: The average of the standard deviation of the body gyroscope jerk signals in the Z axis recorded for the given subject and activity.
+
+tBodyAccMag.mean: The average of the mean magnitude of the body acceleration signals.
+
+tBodyAccMag.std: The standard deviation of the mean magnitude of the body acceleration signals.
+
+tGravityAccMag.mean: The average of the mean magnitude of the gravity acceleration signals.
+
+tGravityAccMag.std: The average of the standard deviation of the magnitude of the gravity acceleration signals.
+
+tBodyAccJerkMag.mean: The average of the mean magnitude of the body acceleration jerk signals.
+
+tBodyAccJerkMag.std: The average of the standard deviation of the magnitude of the body acceleration jerk signals.
+
+tBodyGyroMag.mean: The average of the mean magnitude of the body gyroscope signals.
+
+tBodyGyroMag.std: The average of the standard deviation of the magnitude of the body gyroscope signals.
+
+tBodyGyroJerkMag.mean: The average of the mean magnitude of the body gyroscope jerk signals.
+
+tBodyGyroJerkMag.std: The average of the standard deviation of the magnitude of the body gyroscope jerk signals.
+
+The following variables are the Fast Fourier transforms of the above signals.
+
+fBodyAcc.mean...X
+fBodyAcc.mean...Y
+fBodyAcc.mean...Z
+fBodyAcc.std...X
+fBodyAcc.std...Y
+fBodyAcc.std...Z
+fBodyAcc.meanFreq...X
+fBodyAcc.meanFreq...Y
+fBodyAcc.meanFreq...Z
+fBodyAccJerk.mean...X
+fBodyAccJerk.mean...Y
+fBodyAccJerk.mean...Z
+fBodyAccJerk.std...X
+fBodyAccJerk.std...Y
+fBodyAccJerk.std...Z
+fBodyAccJerk.meanFreq...X
+fBodyAccJerk.meanFreq...Y
+fBodyAccJerk.meanFreq...Z
+fBodyGyro.mean...X
+fBodyGyro.mean...Y
+fBodyGyro.mean...Z
+fBodyGyro.std...X
+fBodyGyro.std...Y
+fBodyGyro.std...Z
+fBodyGyro.meanFreq...X
+fBodyGyro.meanFreq...Y
+fBodyGyro.meanFreq...Z
+fBodyAccMag.mean..
+fBodyAccMag.std..
+fBodyAccMag.meanFreq..
+fBodyBodyAccJerkMag.mean..
+fBodyBodyAccJerkMag.std..
+fBodyBodyAccJerkMag.meanFreq..
+fBodyBodyGyroMag.mean..
+fBodyBodyGyroMag.std..
+fBodyBodyGyroMag.meanFreq..
+fBodyBodyGyroJerkMag.mean..
+fBodyBodyGyroJerkMag.std..
+fBodyBodyGyroJerkMag.meanFreq..
